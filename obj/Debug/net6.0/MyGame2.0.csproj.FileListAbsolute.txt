@@ -1,0 +1,14 @@
+C:\Users\Artem\Desktop\Селивёрстов225гр\консольные\MyGame2.0\obj\Debug\net6.0\MyGame2.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Artem\Desktop\Селивёрстов225гр\консольные\MyGame2.0\obj\Debug\net6.0\MyGame2.0.AssemblyInfoInputs.cache
+C:\Users\Artem\Desktop\Селивёрстов225гр\консольные\MyGame2.0\obj\Debug\net6.0\MyGame2.0.AssemblyInfo.cs
+C:\Users\Artem\Desktop\Селивёрстов225гр\консольные\MyGame2.0\obj\Debug\net6.0\MyGame2.0.csproj.CoreCompileInputs.cache
+C:\Users\Artem\Desktop\Селивёрстов225гр\консольные\MyGame2.0\bin\Debug\net6.0\MyGame2.0.exe
+C:\Users\Artem\Desktop\Селивёрстов225гр\консольные\MyGame2.0\bin\Debug\net6.0\MyGame2.0.deps.json
+C:\Users\Artem\Desktop\Селивёрстов225гр\консольные\MyGame2.0\bin\Debug\net6.0\MyGame2.0.runtimeconfig.json
+C:\Users\Artem\Desktop\Селивёрстов225гр\консольные\MyGame2.0\bin\Debug\net6.0\MyGame2.0.dll
+C:\Users\Artem\Desktop\Селивёрстов225гр\консольные\MyGame2.0\bin\Debug\net6.0\MyGame2.0.pdb
+C:\Users\Artem\Desktop\Селивёрстов225гр\консольные\MyGame2.0\obj\Debug\net6.0\MyGame2.0.dll
+C:\Users\Artem\Desktop\Селивёрстов225гр\консольные\MyGame2.0\obj\Debug\net6.0\refint\MyGame2.0.dll
+C:\Users\Artem\Desktop\Селивёрстов225гр\консольные\MyGame2.0\obj\Debug\net6.0\MyGame2.0.pdb
+C:\Users\Artem\Desktop\Селивёрстов225гр\консольные\MyGame2.0\obj\Debug\net6.0\MyGame2.0.genruntimeconfig.cache
+C:\Users\Artem\Desktop\Селивёрстов225гр\консольные\MyGame2.0\obj\Debug\net6.0\ref\MyGame2.0.dll
